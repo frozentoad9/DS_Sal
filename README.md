@@ -1,2 +1,2 @@
 # ds_salary_proj
-Data Science Salary Prediction
+A tool to negotiate your Data Scientist Salary with your HR
